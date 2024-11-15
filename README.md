@@ -19,6 +19,12 @@ A simple and efficient task management application built with React and styled u
 - **Frontend**: React
 - **Styling**: Tailwind CSS
 - **State Management**: React `useState` `useEffect` `useContext` for managing task data
+
+## Screenshots
+![Home Page](https://github.com/user-attachments/assets/533e1603-5085-46f3-b132-a22ef8b9a3c5)
+![image](https://github.com/user-attachments/assets/31f72a4c-06a5-4899-9f4c-d17c955ed071)
+
+
 ## Installation
 
 To get started with this project locally, follow the steps below:
